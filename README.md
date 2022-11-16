@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @b4boum
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning salesforce
+- 🌱 I’m currently learning SAP
 - 📫 How to reach me : twitter @batoupac
